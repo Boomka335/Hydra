@@ -34,13 +34,13 @@ class Download {
     private String title;
     private String[] uris;
     private String uploadDate;
-    private String diskSpace;
+    private String fileSize;
 
-    public Download(String title, String[] uris, String uploadDate, String diskSpace) {
+    public Download(String title, String[] uris, String uploadDate, String fileSize) {
         this.title = title;
         this.uris = uris;
         this.uploadDate = uploadDate;
-        this.diskSpace = diskSpace;
+        this.fileSize = fileSize;
     }
 
     public String getTitle() {
@@ -63,12 +63,12 @@ class Download {
         return uploadDate;
     }
 
-    public String getDiskSpace() {
-        return diskSpace;
+    public String getFileSize() {
+        return fileSize;
     }
 
-    public void setDiskSpace(String diskSpace) {
-        this.diskSpace = diskSpace;
+    public void setFileSize(String diskSpace) {
+        this.fileSize = diskSpace;
     }
 
     public void setUploadDate(String uploadDate) {
