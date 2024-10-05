@@ -1,1 +1,69 @@
-{"name":"Torrent Igruha","downloads":[{"title":"War Thunder ","uris":["https://itorrents-igruha.org/652-war-thunder.html"],"uploadDate":"2024-07-31T00:00:00Z","fileSize":"4.3 GB"},{"title":"Enlisted ","uris":["https://itorrents-igruha.org/1983-me-enlisted-download.html"],"uploadDate":"2024-07-11T00:00:00Z","fileSize":"4.3 GB"},{"title":"Crossout ","uris":["https://itorrents-igruha.org/465-crossout.html"],"uploadDate":"2024-07-31T00:00:00Z","fileSize":"4.3 GB"},{"title":"World of Tanks ","uris":["https://itorrents-igruha.org/778-world-of-tanks.html"],"uploadDate":"2024-07-31T00:00:00Z","fileSize":"4.3 GB"},{"title":"Warface ","uris":["https://itorrents-igruha.org/790-warface-varfeys.html"],"uploadDate":"2024-07-31T00:00:00Z","fileSize":"4.3 GB"},{",title":"World of Warships ","uris":["https://itorrents-igruha.org/72-world-of-warships.html"],"uploadDate":"2024-07-31T00:00:00Z","fileSize":"4.3 GB"},{"title":"Divine Ark ","uris":["https://itorrents-igruha.org/16751-divine-ark.html"],"uploadDate":"2024-05-06T00:00:00Z","fileSize":"4.3 GB"},{"title":"ГТА Малиновка (GTA Malinovka RP) ","uris":["https://itorrents-igruha.org/16750-malinovka.html"],"uploadDate":"2024-07-27T00:00:00Z","fileSize":"4.3 GB"},{"title":"Counter Strike 1.6 (КС 1.6) ","uris":["https://itorrents-igruha.org/1131-counter-strike-16.html"],"uploadDate":"2024-06-13T00:00:00Z","fileSize":"4.3 GB"}]}
+{
+  "name": "Torrent Igruha",
+  "downloads": [
+    {
+      "title": "War Thunder ",
+      "uris": [
+        "https://itorrents-igruha.org/652-war-thunder.html"
+      ],
+      "uploadDate": "2024-07-31T00:00:00Z",
+      "fileSize": "4.3 GB"
+    },
+    {
+      "title": "Enlisted ",
+      "uris": [
+        "https://itorrents-igruha.org/1983-me-enlisted-download.html"
+      ],
+      "uploadDate": "2024-07-11T00:00:00Z",
+      "fileSize": "4.3 GB"
+    },
+    {
+      "title": "Crossout ",
+      "uris": [
+        "https://itorrents-igruha.org/465-crossout.html"
+      ],
+      "uploadDate": "2024-07-31T00:00:00Z",
+      "fileSize": "4.3 GB"
+    },
+    {
+      "title": "World of Tanks ",
+      "uris": [
+        "https://itorrents-igruha.org/778-world-of-tanks.html"
+      ],
+      "uploadDate": "2024-07-31T00:00:00Z",
+      "fileSize": "4.3 GB"
+    },
+    {
+      "title": "Warface ",
+      "uris": [
+        "https://itorrents-igruha.org/790-warface-varfeys.html"
+      ],
+      "uploadDate": "2024-07-31T00:00:00Z",
+      "fileSize": "4.3 GB"
+    },
+    {
+      ",title": "World of Warships ",
+      "uris": [
+        "https://itorrents-igruha.org/72-world-of-warships.html"
+      ],
+      "uploadDate": "2024-07-31T00:00:00Z",
+      "fileSize": "4.3 GB"
+    },
+    {
+      "title": "Divine Ark ",
+      "uris": [
+        "https://itorrents-igruha.org/16751-divine-ark.html"
+      ],
+      "uploadDate": "2024-05-06T00:00:00Z",
+      "fileSize": "4.3 GB"
+    },
+    {
+      "title": "Counter Strike 1.6 (КС 1.6) ",
+      "uris": [
+        "https://itorrents-igruha.org/1131-counter-strike-16.html"
+      ],
+      "uploadDate": "2024-06-13T00:00:00Z",
+      "fileSize": "4.3 GB"
+    }
+  ]
+}
