@@ -45,6 +45,17 @@ public class Main {
                         Elements sizeElements = document2.select(":contains(Размер)");
                         String diskSpace = "";
                         Element timeElement = document2.select("time.published").first();
+                        Elements torrents = document2.select("a.torrent");
+
+                        String link2 = torrents.attr("href");
+                        String link3 = "";
+                        if (link2 != null && !link2.isEmpty()){
+                            Document document3 = Jsoup.connect(link2).get();
+                            Elements torrents2 = document3.select("a.torrent2");
+                            link3 = torrents2.attr("href");
+                        }else {
+                            continue;
+                        }
 
                         for (Element sizeElement : sizeElements) {
                             diskSpace = sizeElement.text();
@@ -52,7 +63,7 @@ public class Main {
 
                         for (Element element2 : elements2){
                             String title = element2.text() + " ";
-                            String[] uris = { url1 + link };
+                            String[] uris = { link3 };
                             String formattedDate = "";
 
                             if (timeElement != null){
